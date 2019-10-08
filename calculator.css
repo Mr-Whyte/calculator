@@ -1,0 +1,19 @@
+.border{
+    border: 5px solid black;
+    width: 200px;
+}
+
+.textinput{
+    border: 2px solid black;
+    width: 180px;
+}
+
+.padding{
+    padding: 5px;
+}
+
+.button1{
+    color: blue;
+    width: 33px;
+    height: 33px;
+}
